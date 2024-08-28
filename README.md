@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 <center>
 <div style="display:inline_block"><br>
-  <img aling="center" atl="Leonardo" height="30" width="40" src="https://http2.mlstatic.com/D_NQ_NP_760197-MLB74402366520_022024-O.webp">
+  <img aling="center" atl="Leonardo" height="50" width="80" src="https://http2.mlstatic.com/D_NQ_NP_760197-MLB74402366520_022024-O.webp">
 
